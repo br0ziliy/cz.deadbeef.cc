@@ -22,6 +22,8 @@
 - [Услуги](living/uslugi.md)
   - [Coworking](living/uslugi/coworking.md)
   - [Страховка](living/uslugi/insurance.md)
+- [Водительское удостоверение](living/driving_license.md) - получение, обмен
+- [Язык](living/language.md) - mluv Česky, vole!
 
 ### Города
 
