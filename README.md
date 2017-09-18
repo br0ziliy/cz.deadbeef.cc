@@ -10,7 +10,7 @@
 ## Визовые вопросы
 
 - [ВНЖ](visa/dlouhodoby.md)
-- [Предпринимательство](visa/firm.md)
+- [Предпринимательство (в разработке)](visa/firm.md)
 - [Система VisaPoint](visa/visapoint.md)
 - [Рабочая карта](visa/work.md)
 
