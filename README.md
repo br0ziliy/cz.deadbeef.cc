@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+Сборник информации по переезду и жизни в Чешской Республике.
 
-You can use the [editor on GitHub](https://github.com/br0ziliy/cz.deadbeef.cc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Составлен при участии пользователей чата Телеграм
+[@ceskarepublika](https://t.me/ceskarepublika)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Если есть желание дополнить какие-то страницы - регистрируйтесь на GitHub,
+форкайте репозиторий и создавайте
+[Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-### Markdown
+# Содерание
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Визовые вопросы
 
-```markdown
-Syntax highlighted code block
+- [ВНЖ](visa/dlouhodoby.md)
+- [Предпринимательство](visa/firm.md)
+- [Система VisaPoint](visa/visapoint.md)
+- [Рабочая карта](visa/work.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Проживание
 
-- Bulleted
-- List
+- [Налоги](living/taxes.md)
+- [Авто (покупка, продажа и т.д.)](living/cars.md)
+- [Этнические группы](living/diaspora.md)
+- [Услуги](living/uslugi.md)
+  - [Coworking](living/uslugi/coworking.md)
+  - [Страховка](living/uslugi/insurance.md)
 
-1. Numbered
-2. List
+### Города
 
-**Bold** and _Italic_ and `Code` text
+- [Brno](living/brno.md)
+- [Ostrava](living/ostrava.md)
 
-[Link](url) and ![Image](src)
-```
+### Квартирный вопрос
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Аренда](living/flats_rend.md)
+- [Покупка (ипотека)](living/flats_buy.md)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/br0ziliy/cz.deadbeef.cc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
