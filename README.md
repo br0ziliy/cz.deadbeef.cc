@@ -7,8 +7,6 @@
 форкайте репозиторий и создавайте
 [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-# Содерание
-
 ## Визовые вопросы
 
 - [ВНЖ](visa/dlouhodoby.md)
