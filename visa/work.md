@@ -8,14 +8,17 @@
 ведут на списки вакансий, где возможно):
 
 ### Прага
-
+  * [CA Technologies](https://www.linkedin.com/company/1372/jobs/)
+  * [GoodData](https://www.gooddata.com/company/careers-list)
+  
 ### Брно
 
   * [Red Hat](https://jobs.redhat.com)
-  * [SolarWinds](http://solarwinds.jobs.cz/)
+  * [SolarWinds](https://solarwinds.jobs/brno/none/cze/jobs/)
   * [NetSuite](http://www.netsuite.com/portal/career/openings-cz.shtml)
   * [AVG](https://careers.avg.com/our-vacancies/list/?keywords=&location[]=2&fulltime=1)
-  * [Motorolla](http://careers.motorolasolutions.com/moto.cfm?page=czech_EN)
+  * [Motorola](http://careers.motorolasolutions.com/moto.cfm?page=czech_EN)
+  * [GoodData](https://www.gooddata.com/company/careers-list)
 
 ### Острава
 
