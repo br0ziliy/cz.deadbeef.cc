@@ -7,6 +7,11 @@
 форкайте репозиторий и создавайте
 [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
+## Полезные ссылки
+
+Другие статьи с полезной информацией
+
+
 ## Визовые вопросы
 
 - [ВНЖ](visa/dlouhodoby.md)
@@ -33,5 +38,6 @@
 ### Квартирный вопрос
 
 - [Аренда](living/flats_rend.md)
+  - см. также статью на Telegra.ph [Как снять квартиру в Чехии, v2.0](http://telegra.ph/Kak-snyat-kvartiru-v-CHehii-v20-03-02)
 - [Покупка (ипотека)](living/flats_buy.md)
 
