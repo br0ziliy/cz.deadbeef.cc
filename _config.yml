@@ -1,3 +1,4 @@
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+remote_theme: mmistakes/minimal-mistakes
 title: GoToCzechRepublic
 description: Полезная информация для иностранцев в Чешской Республике
