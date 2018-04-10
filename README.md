@@ -7,11 +7,6 @@
 форкайте репозиторий и создавайте
 [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-## Полезные ссылки
-
-Другие статьи с полезной информацией
-
-
 ## Визовые вопросы
 
 - [ВНЖ](visa/dlouhodoby.md)
@@ -32,6 +27,7 @@
 
 ### Города
 
+- [Prague](living/prague.md)
 - [Brno](living/brno.md)
 - [Ostrava](living/ostrava.md)
 

@@ -8,4 +8,4 @@
 - [@antzoo](https://t.me/antzoo)
 - [@powerslime](https://t.me/powerslime)
 - [@sheff146](https://t.me/sheff146)
-
+- [@Bezzikapa](https://t.me/Bezzikapa)
