@@ -33,7 +33,7 @@
 
 ### Квартирный вопрос
 
-- [Аренда](living/flats_rend.md)
+- [Аренда](living/flats_rent.md)
   - см. также статью на Telegra.ph [Как снять квартиру в Чехии, v2.0](http://telegra.ph/Kak-snyat-kvartiru-v-CHehii-v20-03-02)
 - [Покупка (ипотека)](living/flats_buy.md)
 
