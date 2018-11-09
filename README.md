@@ -18,7 +18,7 @@
 - [Предпринимательство (в разработке)](visa/firm.md)
 - [Система VisaPoint](visa/visapoint.md)
 - [Рабочая карта](visa/work.md)
-- [Приглашение простой письменной формы, не в ЦИЗИНКЕ](visa/written-invitation.md )
+- [Приглашение простой письменной формы, не в ЦИЗИНКЕ](visa/written-invitation.md)
 
 ## Проживание
 
