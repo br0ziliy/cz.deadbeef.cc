@@ -25,7 +25,7 @@
 В Остраве крупнейший наниматель айтишников - компания [Tieto](https://jobs.tieto.cz/), у них позиции открыты практически постоянно. Другие компании, стоящие внимания:
 
   * [Vendavo](http://vendavo.cz/kariera/)
-  * [CGI](http://cgi.jobs.cz/vypis-pozic.php) (тут не только Острава)
+  * [CGI](https://www.jobs.cz/prace/?company%5B0%5D=20519&lang=en) (тут не только Острава)
 
 ## Что делать людям вне ИТ?
 
