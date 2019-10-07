@@ -13,7 +13,9 @@
 > относительно не сложно, просто чуток геморно, зато потом никаких проблем.
 -- [@gnomsa](https://t.me/ceskarepublika/190917)
 
-- [ВНЖ](visa/dlouhodoby.md)
+- [ВНЖ](visa/dlouhodoby.md) - dlouhodoby pobyt / разрешение на временное
+    пребывание
+- [ПМЖ](visa/trvaly.md) - trvaly pobyt / разренение на постоянное пребывание
 - [Предпринимательство (в разработке)](visa/firm.md)
 - [Система VisaPoint](visa/visapoint.md)
 - [Рабочая карта](visa/work.md)
